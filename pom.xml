@@ -22,7 +22,7 @@
     <groupId>jakarta.ejb</groupId>
     <artifactId>jakarta.ejb-parent</artifactId>
     <packaging>pom</packaging>
-    <version>4.0.0-SNAPSHOT</version>
+    <version>4.0.0</version>
     <name>Jakarta Enterprise Beans Parent</name>
     <description>Jakarta Enterprise Beans Parent</description>
     <url>https://github.com/eclipse-ee4j/ejb-api</url>
@@ -38,7 +38,7 @@
         <connection>scm:git:ssh://git@github.com/eclipse-ee4j/ejb-api.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/eclipse-ee4j/ejb-api.git</developerConnection>
         <url>https://github.com/eclipse-ee4j/ejb-api/tree/${project.scm.tag}</url>
-        <tag>HEAD</tag>
+        <tag>jakarta.ejb-parent-4.0.0</tag>
     </scm>
     <mailingLists>
         <mailingList>
